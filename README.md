@@ -19,5 +19,5 @@
 <img align="left" alt="Scrapy" width="40px" src="https://user-images.githubusercontent.com/1499751/115753433-de545e80-a3a3-11eb-8d76-9e97d8b50113.png"/>
 <img align="left" alt="PIL" width="40px" src="https://user-images.githubusercontent.com/1499751/115753513-f0ce9800-a3a3-11eb-88d8-2f970f33f857.png"/>
 <img align="left" alt="OpenCV" width="35px" src="https://user-images.githubusercontent.com/1499751/115753693-24a9bd80-a3a4-11eb-9ce7-d2320ee4000a.png"/>
-
-
+<img align="left" alt="Tkinter" width="80px" src="https://user-images.githubusercontent.com/1499751/115973789-59fb0a80-a560-11eb-858b-eb8777276f32.jpg"/>
+<img align="left" alt="PyQt5" width="35px" src="https://user-images.githubusercontent.com/1499751/115973828-975f9800-a560-11eb-9a6d-bd2b47f2b057.png"/>
