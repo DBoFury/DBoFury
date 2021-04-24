@@ -9,7 +9,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="40px" src="https://user-images.githubusercontent.com/1499751/115736045-a513f280-a393-11eb-8dbd-ebd3eda15841.png"/>
-<img align="left" alt="PyCharm" width="40px" src="https://user-images.githubusercontent.com/1499751/115753535-f9bf6980-a3a3-11eb-9ba4-3c733ea667f5.png"/>
 <img align="left" alt="Jupyter Notebook" width="40px" src="https://user-images.githubusercontent.com/1499751/115753343-c7157100-a3a3-11eb-8e88-80d0d57f3c89.png"/>
 <img align="left" alt="Pandas" width="45px" src="https://user-images.githubusercontent.com/1499751/115754477-e4970a80-a3a4-11eb-8efc-bec67719eff5.png"/>
 <img align="left" alt="Numpy" width="40px" src="https://user-images.githubusercontent.com/1499751/115737285-ab569e80-a394-11eb-9062-153f7b713199.png"/>
