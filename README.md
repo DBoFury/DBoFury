@@ -11,6 +11,8 @@
 <img align="left" alt="Python" width="40px" src="https://github.com/DBoFury/results-summary-component/assets/1499751/38ccbcb9-59e2-4ab6-883d-be31015f134d"/>
 <img align="left" alt="Django" width="45px" src="https://user-images.githubusercontent.com/1499751/154279808-15fbbcd5-5cec-42ea-8bbd-3bd85967a578.jpg"/>
 <img align="left" alt="Flask" width="45px" src="https://user-images.githubusercontent.com/1499751/154279859-3ba2b3ab-4d90-4ba6-95b2-0443873e0095.png"/>
+<img align="left" alt="Celery" width="45px" src="https://github.com/DBoFury/age-calculator-app/assets/1499751/44394750-c558-4839-b215-792e2d1db707"/>
+<img align="left" alt="Redis" width="45px" src="https://github.com/DBoFury/age-calculator-app/assets/1499751/acfb6bd3-f5d5-4a10-aa44-c7d1d8b225b8"/>
 <img align="left" alt="React" width="45px" src="https://github.com/DBoFury/results-summary-component/assets/1499751/f3f72ada-fff7-4ebe-91d4-dc74bd3c41ba"/>
 <img align="left" alt="TS" width="45px" src="https://github.com/DBoFury/results-summary-component/assets/1499751/b77a3fc8-21e8-470d-921f-7ab3986269db"/>
 <img align="left" alt="Tailwind" width="45px" src="https://github.com/DBoFury/results-summary-component/assets/1499751/f8f9a452-9f80-4a49-95d7-bbce28d1e0b7"/>
