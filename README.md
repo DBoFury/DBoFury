@@ -16,5 +16,5 @@
 <img align="left" alt="React" width="45px" src="./icons/React.png"/>
 <img align="left" alt="Next" width="45px" src="./icons/Next.png"/>
 <img align="left" alt="TS" width="45px" src="./icons/TS.png"/>
-<img align="left" alt="Tailwind" width="45px" src="./icons/TailwindCSS.png"/>
+<img align="left" alt="Tailwind" width="50px" src="./icons/TailwindCSS.png"/>
 <img align="left" alt="Docker" width="45px" src="./icons/Docker.png"/>
