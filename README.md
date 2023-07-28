@@ -8,7 +8,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="40px" src="https://github.com/DBoFury/results-summary-component/assets/1499751/38ccbcb9-59e2-4ab6-883d-be31015f134d"/>
+<img align="left" alt="Python" width="40px" src="./icons/Python.png"/>
 <img align="left" alt="Django" width="45px" src="https://user-images.githubusercontent.com/1499751/154279808-15fbbcd5-5cec-42ea-8bbd-3bd85967a578.jpg"/>
 <img align="left" alt="Flask" width="45px" src="https://user-images.githubusercontent.com/1499751/154279859-3ba2b3ab-4d90-4ba6-95b2-0443873e0095.png"/>
 <img align="left" alt="Celery" width="45px" src="https://github.com/DBoFury/age-calculator-app/assets/1499751/44394750-c558-4839-b215-792e2d1db707"/>
